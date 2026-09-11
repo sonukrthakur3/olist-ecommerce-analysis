@@ -20,10 +20,9 @@ This project analyzes operational data spanning ~100,000 orders from Olist E-Com
 ---
 
 ## Visualizations
-![Monthly Trend](assets/chart1.png)
-![Delivery Timing Impact](assets/chart2.png)
-![Geographic Inequality](assets/chart3.png)
-
+![Monthly Trend](chart1.png)
+![Delivery Timing Impact](chart2.png)
+![Geographic Inequality](chart3.png)
 ---
 
 ## Actionable Recommendations
